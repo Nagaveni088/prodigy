@@ -1,44 +1,83 @@
-# 🔐 Secure Auth App (Flask)
+# 🚀 Prodigy Infotech Projects Portfolio
 
-A simple and secure **User Authentication System** built using **Flask**, featuring user registration, login, and dashboard access with session management.
-
----
-
-## 📌 Project Overview
-
-This project is a web-based authentication system developed as part of my internship tasks. It allows users to:
-
-- Register with a username and password  
-- Login securely  
-- Access a protected dashboard  
-- Logout safely  
-
-The system uses **Flask**, **SQLite**, and **HTML/CSS** for frontend design.
+This repository contains a collection of full-stack and backend projects developed as part of my internship and learning journey. Each project demonstrates practical implementation of real-world applications using modern technologies.
 
 ---
 
-## 🖼️ Project Screenshots
+## 📌 Projects Included
 
-### 🔹 Registration Page
-User can create a new account.
+### 🔐 1. Secure Auth App (Flask)
+A user authentication system built using Flask.
 
-### 🔹 Login Page
-Existing users can log in securely.
+**Features:**
+- User Registration & Login  
+- Password Hashing  
+- Session Management  
+- Protected Dashboard  
+- Logout Functionality  
 
-### 🔹 Dashboard
-Displays welcome message after successful login.
-
-*(Screenshots available in project files / PDF)* :contentReference[oaicite:0]{index=0}
-
----
-
-## ⚙️ Tech Stack
-
-- **Backend:** Python (Flask)
-- **Frontend:** HTML, CSS
-- **Database:** SQLite
-- **Tools:** VS Code
+**Tech Stack:** Flask, SQLite, HTML, CSS  
 
 ---
 
-## 📁 Project Structure
+### 💬 2. Chat Application
+A real-time chat application enabling communication between users.
+
+**Features:**
+- Two-user chat system  
+- Real-time messaging  
+- Simple UI design  
+
+**Tech Stack:** Python (Flask), HTML, CSS  
+
+---
+
+### 👨‍💼 3. Employee Management System
+A system to manage employee records efficiently.
+
+**Features:**
+- Add Employee  
+- Update Employee Details  
+- Delete Employee  
+- View Employee List  
+
+**Tech Stack:** Python, SQLite, HTML, CSS  
+
+---
+
+### 📱 4. Social Media App
+A basic social networking application.
+
+**Features:**
+- User profiles  
+- Post creation  
+- Feed system  
+- Interaction features  
+
+**Tech Stack:** Flask, Database, HTML, CSS  
+
+---
+
+### 🌐 5. Full Stack Web Project
+A complete full-stack application combining frontend and backend.
+
+**Features:**
+- Frontend + Backend Integration  
+- Database Connectivity  
+- CRUD Operations  
+
+---
+AUTHOR
+NAGAVENI B KITTUR
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** Python  
+- **Framework:** Flask  
+- **Database:** SQLite  
+- **Frontend:** HTML, CSS  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📂 Repository Structure
